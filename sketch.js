@@ -8,7 +8,7 @@ let actor_img;
 let specs,smoke;
 
 function setup() {
-    createCanvas(800, 500);
+    createCanvas(1500, 900);
     capture = createCapture(VIDEO)
     capture.hide();
 
